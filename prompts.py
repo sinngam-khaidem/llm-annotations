@@ -14,7 +14,7 @@ def prompt1(context, utterance):
     Utterance: probably referring to the "readability" certification. it's not hard, it just exempts you from needing a peer review on commits and enables you to approve other people's commits. totally overblown. i had readability in go, python, golang, and c when i worked there. you use an existing commit to request a readability certification.
     Your Response: {"Rating": "0.5"}
     ----
-
+`
     Context: we’ve come full circle
     Utterance: there are three things you don’t discuss with strangers: religion, politics, and star wars.
     Your Response: {"Rating": "9.5"}
